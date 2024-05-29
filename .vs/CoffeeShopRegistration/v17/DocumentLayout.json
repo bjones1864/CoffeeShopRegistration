@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4569A1C6-0008-4FF0-9211-AB5E1EB4AFF9}|CoffeeShopRegistration\\CoffeeShopRegistration.csproj|c:\\users\\miwol\\source\\repos\\coffeeshopregistration\\coffeeshopregistration\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4569A1C6-0008-4FF0-9211-AB5E1EB4AFF9}|CoffeeShopRegistration\\CoffeeShopRegistration.csproj|solutionrelative:coffeeshopregistration\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4569A1C6-0008-4FF0-9211-AB5E1EB4AFF9}|CoffeeShopRegistration\\CoffeeShopRegistration.csproj|c:\\users\\miwol\\source\\repos\\coffeeshopregistration\\coffeeshopregistration\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4569A1C6-0008-4FF0-9211-AB5E1EB4AFF9}|CoffeeShopRegistration\\CoffeeShopRegistration.csproj|solutionrelative:coffeeshopregistration\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4569A1C6-0008-4FF0-9211-AB5E1EB4AFF9}|CoffeeShopRegistration\\CoffeeShopRegistration.csproj|c:\\users\\miwol\\source\\repos\\coffeeshopregistration\\coffeeshopregistration\\coffeeshopregistration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4569A1C6-0008-4FF0-9211-AB5E1EB4AFF9}|CoffeeShopRegistration\\CoffeeShopRegistration.csproj|solutionrelative:coffeeshopregistration\\coffeeshopregistration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4569A1C6-0008-4FF0-9211-AB5E1EB4AFF9}|CoffeeShopRegistration\\CoffeeShopRegistration.csproj|c:\\users\\miwol\\source\\repos\\coffeeshopregistration\\coffeeshopregistration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4569A1C6-0008-4FF0-9211-AB5E1EB4AFF9}|CoffeeShopRegistration\\CoffeeShopRegistration.csproj|solutionrelative:coffeeshopregistration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4569A1C6-0008-4FF0-9211-AB5E1EB4AFF9}|CoffeeShopRegistration\\CoffeeShopRegistration.csproj|c:\\users\\miwol\\source\\repos\\coffeeshopregistration\\coffeeshopregistration\\views\\home\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4569A1C6-0008-4FF0-9211-AB5E1EB4AFF9}|CoffeeShopRegistration\\CoffeeShopRegistration.csproj|solutionrelative:coffeeshopregistration\\views\\home\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4569A1C6-0008-4FF0-9211-AB5E1EB4AFF9}|CoffeeShopRegistration\\CoffeeShopRegistration.csproj|c:\\users\\miwol\\source\\repos\\coffeeshopregistration\\coffeeshopregistration\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4569A1C6-0008-4FF0-9211-AB5E1EB4AFF9}|CoffeeShopRegistration\\CoffeeShopRegistration.csproj|solutionrelative:coffeeshopregistration\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4569A1C6-0008-4FF0-9211-AB5E1EB4AFF9}|CoffeeShopRegistration\\CoffeeShopRegistration.csproj|c:\\users\\miwol\\source\\repos\\coffeeshopregistration\\coffeeshopregistration\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4569A1C6-0008-4FF0-9211-AB5E1EB4AFF9}|CoffeeShopRegistration\\CoffeeShopRegistration.csproj|solutionrelative:coffeeshopregistration\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4569A1C6-0008-4FF0-9211-AB5E1EB4AFF9}|CoffeeShopRegistration\\CoffeeShopRegistration.csproj|c:\\users\\miwol\\source\\repos\\coffeeshopregistration\\coffeeshopregistration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4569A1C6-0008-4FF0-9211-AB5E1EB4AFF9}|CoffeeShopRegistration\\CoffeeShopRegistration.csproj|solutionrelative:coffeeshopregistration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4569A1C6-0008-4FF0-9211-AB5E1EB4AFF9}|CoffeeShopRegistration\\CoffeeShopRegistration.csproj|c:\\users\\miwol\\source\\repos\\coffeeshopregistration\\coffeeshopregistration\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4569A1C6-0008-4FF0-9211-AB5E1EB4AFF9}|CoffeeShopRegistration\\CoffeeShopRegistration.csproj|solutionrelative:coffeeshopregistration\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoffeeShopRegistration.csproj",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\CoffeeShopRegistration\\CoffeeShopRegistration.csproj",
+              "RelativeDocumentMoniker": "CoffeeShopRegistration\\CoffeeShopRegistration.csproj",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\CoffeeShopRegistration\\CoffeeShopRegistration.csproj",
+              "RelativeToolTip": "CoffeeShopRegistration\\CoffeeShopRegistration.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T19:50:35.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\CoffeeShopRegistration\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CoffeeShopRegistration\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\CoffeeShopRegistration\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CoffeeShopRegistration\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-29T18:29:54.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\CoffeeShopRegistration\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShopRegistration\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\CoffeeShopRegistration\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CoffeeShopRegistration\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T18:19:26.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\CoffeeShopRegistration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShopRegistration\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\CoffeeShopRegistration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CoffeeShopRegistration\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T17:41:07.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\CoffeeShopRegistration\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShopRegistration\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\CoffeeShopRegistration\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CoffeeShopRegistration\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T17:40:47.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\CoffeeShopRegistration\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CoffeeShopRegistration\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\CoffeeShopRegistration\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CoffeeShopRegistration\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:22:41.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\CoffeeShopRegistration\\Views\\Home\\Summary.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShopRegistration\\Views\\Home\\Summary.cshtml",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\CoffeeShopRegistration\\Views\\Home\\Summary.cshtml",
+              "RelativeToolTip": "CoffeeShopRegistration\\Views\\Home\\Summary.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T17:22:09.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\CoffeeShopRegistration\\Views\\Home\\Registration.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShopRegistration\\Views\\Home\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\CoffeeShopRegistration\\Views\\Home\\Registration.cshtml",
+              "RelativeToolTip": "CoffeeShopRegistration\\Views\\Home\\Registration.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T17:21:50.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\CoffeeShopRegistration\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CoffeeShopRegistration\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\CoffeeShopRegistration\\CoffeeShopRegistration\\Models\\User.cs",
+              "RelativeToolTip": "CoffeeShopRegistration\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:09:38.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

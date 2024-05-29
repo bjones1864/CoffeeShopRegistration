@@ -1,0 +1,52 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+
+    /*not working*/
+  
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #836210;
+    color: #eeeede;
+    text-align: center;
+}
+
+/* The header CSS here does not work, dunno why*/
+header {
+    background-color: #e6d5c5;
+    background: black;
+    color: #734a18;
+}
+
+footer {
+    background-color: #eeeede;
+}
+
+input {
+    background-color: #eeeede;
+    color: #836210;
+}
+
+#email_label {
+    padding-right: 32px;
+}
+
+#pass_label {
+    padding-right: 8px;
+}
